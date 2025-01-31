@@ -1,0 +1,34 @@
+All Possible Voices for pyttsx3 on Windows 10:
+
+* note with Natural Voices installed, the chosen one in Windows Control Panel
+	will always be "index-> 0" (Default System Voice)
+
+index-> 0 -- Microsoft David Desktop - English (United States)
+index-> 1 -- Microsoft Hazel Desktop - English (Great Britain)
+index-> 2 -- Microsoft Zira Desktop - English (United States)
+
+with Natural Voices Installed:
+index-> 0 -- Microsoft Sonia Online (Natural) - English (United Kingdom)
+index-> 1 -- Microsoft Zira Desktop - English (United States)
+index-> 2 -- Microsoft Libby Online (Natural) - English (United Kingdom)
+index-> 3 -- Microsoft Maisie Online (Natural) - English (United Kingdom)
+index-> 4 -- Microsoft Ryan Online (Natural) - English (United Kingdom)
+index-> 5 -- Microsoft David Desktop - English (United States)
+index-> 6 -- Microsoft Thomas Online (Natural) - English (United Kingdom)
+index-> 7 -- Microsoft Ana Online (Natural) - English (United States)
+index-> 8 -- Microsoft AndrewMultilingual Online (Natural) - English (United States)
+index-> 9 -- Microsoft Andrew Online (Natural) - English (United States)
+index-> 10 -- Microsoft Aria Online (Natural) - English (United States)
+index-> 11 -- Microsoft AvaMultilingual Online (Natural) - English (United States)
+index-> 12 -- Microsoft Ava Online (Natural) - English (United States)
+index-> 13 -- Microsoft BrianMultilingual Online (Natural) - English (United States)
+index-> 14 -- Microsoft Brian Online (Natural) - English (United States)
+index-> 15 -- Microsoft Christopher Online (Natural) - English (United States)
+index-> 16 -- Microsoft EmmaMultilingual Online (Natural) - English (United States)
+index-> 17 -- Microsoft Emma Online (Natural) - English (United States)
+index-> 18 -- Microsoft Eric Online (Natural) - English (United States)
+index-> 19 -- Microsoft Guy Online (Natural) - English (United States)
+index-> 20 -- Microsoft Jenny Online (Natural) - English (United States)
+index-> 21 -- Microsoft Michelle Online (Natural) - English (United States)
+index-> 22 -- Microsoft Roger Online (Natural) - English (United States)
+index-> 23 -- Microsoft Steffan Online (Natural) - English (United States)
