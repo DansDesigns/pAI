@@ -16,7 +16,7 @@ import pyjokes
 
 # ~~~~~~~~~~~~~~ Name Settings ~~~~~~~~~~~~
 user = "Maker"                            # User Name
-SN = "C1-00"                            # Device Name
+SN = "pAI"                            # Device Name
 greetings = ['Hi', 'Yes?', 'Hello', 'How may I help?', 'Whats on',
              f'Anything for You {user}!']
 
